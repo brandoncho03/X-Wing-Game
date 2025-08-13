@@ -1,0 +1,14 @@
+/* 
+CSS code for xwing game
+*/
+@font-face {
+  font-family: 'OCR A Std';
+  src: url('../xwing_files/OCRAStd.woff') format('truetype'); 
+}
+
+body {
+    text-align: center;
+}
+#board {
+    background-image: url("../xwing_files/space.jpg")
+}
